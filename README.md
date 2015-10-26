@@ -16,6 +16,20 @@ coding practices, code review processes etc. We welcome presentations of securit
 and hardware which take into account these factors, and presentations that analyze other's
 solutions.
 
+## Submissions
+
+Submissions require a small abstract and a short speaker description and must be submitted
+via the Pentabarf system no later than Tuesday, December 10, 2015. Suggested duration for a
+timeslot to apply for is 25 minutes (20 min presentation + 5 mins questions). The shcedule
+shall be finalized by Friday, December 18, 2015.
+
+Instructions:
+
+  * Go to https://penta.fosdem.org/submission/FOSDEM16
+  * If you don't have an account from previous years, register
+  * Create a new event with your title and abstract and some information about you
+  * Be sure to set the event track to "Security devroom"
+
 ## Schedule
 
 Schedule:
