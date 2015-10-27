@@ -20,7 +20,7 @@ solutions.
 
 Submissions require a small abstract and a short speaker description and must be submitted
 via the Pentabarf system no later than Tuesday, December 10, 2015. Suggested duration for a
-timeslot to apply for is 25 minutes (20 min presentation + 5 mins questions). The shcedule
+timeslot to apply for is 25 minutes (20 min presentation + 5 mins questions). The schedule
 shall be finalized by Friday, December 18, 2015.
 
 Instructions:
