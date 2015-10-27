@@ -2,7 +2,7 @@
 
 [FOSDEM 2016](https://fosdem.org/2016/) has, once again, a security devroom, this time on the topic of _"Security and Privacy in modern software"_. 
 
-The security devroom will be held on **Sunday 31st of January 2016** in Brussels, Belgium at [ULB](http://www.ulb.ac.be/).
+The security devroom will be held on **Saturday 30th of January 2016** in Brussels, Belgium at [ULB](http://www.ulb.ac.be/).
 
 ## Our topic this year
 
