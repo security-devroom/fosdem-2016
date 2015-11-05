@@ -29,6 +29,7 @@ Instructions:
   * If you don't have an account from previous years, register
   * Create a new event with your title and abstract and some information about you
   * Be sure to set the event track to "Security devroom"
+  * Subscribe to the [security-devroom@lists.fosdem.org](https://lists.fosdem.org/listinfo/security-devroom) mailing list for announcements
 
 ## Schedule
 
