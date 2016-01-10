@@ -35,7 +35,7 @@ Instructions:
 
 Schedule:
 
-  - Go to https://fosdem.org/2016/schedule/track/security_devroom/
+  - Go to https://fosdem.org/2016/schedule/track/security/
 
 ## Presentations
 
